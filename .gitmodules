@@ -1,0 +1,6 @@
+[submodule "poc.submodule.model1"]
+	path = poc.submodule.model1
+	url = https://github.com/alexch-tr/poc.submodule.model1
+[submodule "poc.submodule.model2"]
+	path = poc.submodule.model2
+	url = https://github.com/alexch-tr/poc.submodule.model2
