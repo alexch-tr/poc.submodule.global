@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC.SubModule.Global", "POC.SubModule.Global\POC.SubModule.Global.csproj", "{99437458-3535-4778-A094-2FF3B9F8089C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC.SubModule.Model1", "poc.submodule.model1\POC.SubModule.Model1\POC.SubModule.Model1.csproj", "{0B0F0817-684E-4038-9E78-646223BE038E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC.SubModule.Model2", "poc.submodule.model2\POC.SubModule.Model2\POC.SubModule.Model2.csproj", "{C2AA2068-6F6C-4266-B0F7-27B0D3B09A3D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{99437458-3535-4778-A094-2FF3B9F8089C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99437458-3535-4778-A094-2FF3B9F8089C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99437458-3535-4778-A094-2FF3B9F8089C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B0F0817-684E-4038-9E78-646223BE038E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B0F0817-684E-4038-9E78-646223BE038E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B0F0817-684E-4038-9E78-646223BE038E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B0F0817-684E-4038-9E78-646223BE038E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2AA2068-6F6C-4266-B0F7-27B0D3B09A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2AA2068-6F6C-4266-B0F7-27B0D3B09A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2AA2068-6F6C-4266-B0F7-27B0D3B09A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2AA2068-6F6C-4266-B0F7-27B0D3B09A3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
